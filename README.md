@@ -7,3 +7,10 @@ create database name "emergencyservices"
 every page give the Mysql Username and password.
 
 Run the project.
+
+
+admin user
+http://localhost/emergencyservices/admin.php
+
+admin username : admin
+password : admin
